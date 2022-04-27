@@ -1,6 +1,3 @@
-from signal import setitimer
-
-
 class Ciclista():
 
     def __init__(self):
